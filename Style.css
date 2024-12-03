@@ -1,0 +1,59 @@
+html {
+    background-color : #0d1a26;
+}
+
+body {
+    height : 100vh;
+    
+        display : flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+}
+.card {
+    width : 317px;
+    background-color : rgb(0, 0, 0, 0.2);
+    padding: 16px 16px 40px 16px;
+    border-radius : 16px;
+
+
+}
+
+img { 
+    width: 100%;
+    border-radius : 16px;
+}
+b  {
+background-color: rgb(0, 0, 0, 0.2);
+text-align: left;
+padding-left: 9px;
+padding-right: 9px;
+padding-top: 6px;
+padding-bottom: 6px;
+}
+h1  {
+    font-size: 24px;
+    text-align: left;
+    color: white;
+}
+
+p {
+    color: slategray;
+    font-size: 20px;
+    text-align: center;
+}
+#c {
+  text-align:left;
+  color: lightseagreen;
+}
+
+.me {
+ text-align: center;
+  width: 40;
+  height: 40;
+  border: 30;
+  align-content: left;
+  display: flex;
+  color:grey;
+  justify-content:left;
+}
