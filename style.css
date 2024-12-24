@@ -61,4 +61,5 @@ p {
 .ne {
     display: flex;
     justify-content: center;
+    align-items: center;
 }
