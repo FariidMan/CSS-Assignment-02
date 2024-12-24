@@ -60,4 +60,5 @@ p {
 
 .ne {
     display: flex;
+    justify-content: center;
 }
