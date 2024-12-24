@@ -57,3 +57,7 @@ p {
   color:grey;
   justify-content:left;
 }
+
+.me span {
+    display: flex 
+}
